@@ -1,0 +1,11 @@
+beautifulsoup4==4.12.3
+gobject==0.1.0
+google==3.0.0
+googlesearch_python==1.2.5
+pyfiglet==1.0.2
+pystyle==2.9
+pyxploitdb==2.0
+Requests==2.32.3
+tabulate==0.9.0
+user_agent==0.1.10
+whats_that_code==0.2.0
